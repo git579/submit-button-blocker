@@ -1,8 +1,0 @@
-{
-    "name": "git579/submit-button-blocker",
-    "description": "Block submit button during saving",
-    "require": {
-        "yiisoft/yii2": "2.0.*",
-        "yiisoft/yii2-bootstrap": "2.0.*"
-    }
-}
