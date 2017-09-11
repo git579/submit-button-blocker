@@ -2,6 +2,11 @@
     "name": "git579/submit-button-blocker",
     "description": "Block submit button during saving",
     "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "lav45\\widget\\": "."
+        }
+    },
     "require": {
         "yiisoft/yii2": "2.0.*",
         "yiisoft/yii2-bootstrap": "2.0.*"

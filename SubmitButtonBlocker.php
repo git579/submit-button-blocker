@@ -1,6 +1,6 @@
 <?php
 
-namespace git579\blocker\submitButtonBlocker;
+namespace git579\blocker;
 
 use Yii;
 use yii\helpers\Html;
