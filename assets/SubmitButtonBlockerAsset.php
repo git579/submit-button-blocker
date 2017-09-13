@@ -13,7 +13,7 @@ class SubmitButtonBlockerAsset extends AssetBundle
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@common/components/submitButtonBlocker/resource/js';
+    public $sourcePath = '@git579/blocker/resource/js';
     /**
      * @inheritdoc
      */

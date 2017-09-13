@@ -3,11 +3,7 @@
     "description": "Block submit button during saving",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "dev-new as 1.1.x-dev"
-        }
-    },
+
     "autoload": {
         "psr-4": {
             "git579\\blocker\\": ""
