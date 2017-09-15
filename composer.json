@@ -9,7 +9,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "v8.0.*-dev"
+            "dev-master": "v9.0.*-dev"
         }
     }
 }
