@@ -6,10 +6,5 @@
         "psr-4": {
             "git579\\blocker\\": ""
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "v9.0.*-dev"
-        }
     }
 }
